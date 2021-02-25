@@ -1,0 +1,176 @@
+body{
+	background-color: #ccffff;
+	color:black;
+	text-align:center;
+}
+h1{
+	
+	color: white;
+	font-family: TimesNewRoman;
+	font-size: 40px;
+    text-align: center;
+    padding:80px;
+}
+.a{
+	color: white;
+	font-size:30px;
+    text-align: center;
+   font-family:georgia;
+}
+.int{
+	font-size:50px;
+	font-family: ariel bold;
+
+}
+header{
+	position:fixed;
+	
+}
+.logo{
+	height:150px;
+	width:150px;
+	}
+.topnav{
+	background-color: #333;
+	overflow: hidden;
+	float:right;
+	
+}
+.topnav a{
+	float:center;
+	color:#f2f2f2;
+	text-align:center;
+	padding:14px 16px;
+    font-size: 17px;
+    
+}
+.topnav a:hover{
+	background-color: #ddd;
+	color:black;
+}
+
+.intro{
+	background-image: url(https://tse4.mm.bing.net/th?id=OIP.kiEZ2wqoJ5yQd7rr4r8e6wEsCD&pid=Api&P=0&w=342&h=150);
+	background-size:cover;
+}
+h2{
+	font-family:georgia;
+	font-size:30px;
+	text-align: center;
+	
+}
+.c{
+	font-size: 20px;
+	font-family:georgia;
+	text-align: center;
+	
+}
+.me{
+	height:400px;
+	width:200px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+}
+.name{
+	text-align: center;
+	font-size:30px;
+	font-style: georgia;
+}
+.academics{
+	color:white;
+	font-family:georgia;
+	font-size:70px;
+	padding:50px;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.u1lVas8II-8EF1Gwhp3B0QHaEK&pid=Api&P=0&w=340&h=192);
+	background-size:cover;
+	text-align:center;
+}
+.acc{
+	font-size:30px;
+	text-align:center;
+}
+.hobbies{
+	color:white;
+	font-family:georgia;
+	font-size:70px;
+	padding:50px;
+	padding-bottom: 60px;
+	padding-top: 60px;
+	background-image: url(https://tse1.mm.bing.net/th?id=OIP.XAqeqkPIouX4AlDyTtau1gHaEL&pid=Api&P=0&w=284&h=161);
+	background-size:cover;
+	text-align:center;
+}
+.book{
+	height:200px;
+	width:400px;
+	margin-left: 2px;
+	margin-right: 2px;
+	display:inline-block;
+}
+.music{
+	height:200px;
+	width:400px;
+	margin-left: 2px;
+	margin-right: 2px;
+	display:inline-block;
+}
+.art{
+	height:200px;
+	width:400px;
+	margin-left: 2px;
+	margin-right: 2px;
+	display:inline-block;
+}
+.contact{
+	padding-top: 100px;
+}
+input, textarea{
+	width:500px;
+	height:25px;
+	margin-top: 10px;
+	margin-bottom:30px;
+	padding:20px;
+	font-size: 20px;
+	border:1px solid #889eab;
+}
+.message{
+	font-size: 30px;
+}
+.contact-submit{
+background-color: #dee7ec;
+color:#889eab;
+}
+.btn{
+	padding-top:12px;
+	padding-bottom:12px; 
+	padding-left:24px;
+	padding-right:24px;
+	color:white;
+	display:inline-block;
+	opacity:0.8;
+}
+.github{
+	background-color:#3b5998;
+}
+.linkedin{
+	background-color:#3b5998;
+}
+.git{
+	height: 30%;
+	width:30%;
+}
+.link{
+	height: 30%;
+	width:30%;
+}
+div:active{
+background-color: green;
+}
+.btn:active{
+	box-shadow: none;
+	position: relative;
+	top:7px;
+}
